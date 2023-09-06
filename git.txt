@@ -57,7 +57,7 @@ Otra opcion
 
 git pull
 
-git add -A
+git add -A  (sube todos los cambios realizados)
 
 git commit -m "Texto"
 
