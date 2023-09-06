@@ -41,3 +41,11 @@ git push -f origin main
 
 Para chequear los commits
 git log
+
+-------------------------------------------------------------------------------------
+
+git add .
+
+git commit -m "prueba"
+
+git push -f origin main   (o master segun nombre de la rama)
