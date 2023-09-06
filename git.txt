@@ -49,7 +49,7 @@ git add .
 git commit -m "prueba"
 
 git push -f origin main   (o master segun nombre de la rama)
-
+////
 
 ______________________________________________________________________________________
 
